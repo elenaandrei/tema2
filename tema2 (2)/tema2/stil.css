@@ -1,0 +1,147 @@
+body {
+      background-color:Lavender ;
+	  }	
+.navbar {
+        height:70px;
+		background-color:LightBlue;
+        }
+.navbar img {
+            width:60px;
+			padding: 20px 0px 0px 20 px;
+            }
+.navbar ul {
+	margin-left:300px;
+	vertical-align: 80%;
+}
+.meniu {
+	display:inline-block;
+}
+.meniu li {
+	display:inline-block;
+}
+.buton {
+	background-color:CadetBlue;
+	padding:4px 9px;
+}
+.buton a {
+	text-decoration:none;
+	color:Snow;
+	font-size:20px;
+}
+.buton:hover {
+	background-color:DarkSlateGrey;
+}
+.coperta{
+	width:100%;
+	background-image:url("imagini/background.jpg");
+	margin:20px;
+}
+.coperta h1{
+	text-indent:20px;
+	font-size:20px;
+	color:Indigo;
+}
+.coperta h2 {
+	text-align: center;
+	padding:100px 30px;
+	color:MidnightBlue;
+	font-size:50px;
+}
+.titlu{
+	width:100%;
+	background-color:CadetBlue;
+	padding:20 px 10px 10px 20px;
+	text-align:center;
+	font-size:30px;
+}
+.titlu h1{
+	text-align:left;
+	font-size:20px;
+	color:Black;
+}
+.banner{
+	width:100%;
+	height:100%;
+	background:LightBlue;
+}
+.banner h2{
+	text-align:center;
+}
+.banner p{
+	text-align:center;
+	font-size:20px;
+}
+.container{
+	color:MidnightBlue;
+	margin:50px 15px;
+}
+.container h2{
+	text-align:center;
+	font-size:30px;
+}
+.profiles{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:space-around;
+	margin:auto;	
+}
+.header{
+	font-size:20px;
+}
+.profile{
+	flex-basis:200px;
+}
+.section{
+	background:LightBlue;
+	font-size:20px;
+	padding:5px 0px 15px 0px;
+}
+.continut{
+	display:flex;
+}
+
+.fundal{
+	width:100%;
+	background-color:CadetBlue;
+	text-align:center;
+	font-size:30px;
+	padding:10px 5px 5px 10px;
+	margin:10px;
+}
+
+.container {
+	margin:auto;
+	overflow:auto;
+}
+
+.gallery{
+	margin:5px;
+	float:left;
+	width:600px;
+}
+.gallery img{
+	width:100%;
+	height:auto;
+	padding:50px;
+}
+.descriere{
+	padding:15px;
+	text-align:center;
+}
+.content p{
+	text-align:center;
+}
+.text{
+	display:flex;
+	padding:25px 10px;
+}
+.jum{
+	padding:40px 10px 20px 40px;
+}
+.jos img{
+	width:100px;
+	padding-left:595px;
+}
+.jos h3{
+	text-align:center;
+}
